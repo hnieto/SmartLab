@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartLab</string>
+    <string name="title_activity_vislab">Responsive Vislab Immersion</string>
+    <string name="turn_on_stallion">Turn on Stallion</string>
+    <string name="turn_off_stallion">Turn off Stallion</string>
+    <string name="start_display_cluster">Start Display Cluster</string>
+    <string name="start_vnc_server">Start VNC Server</string>
+</resources>

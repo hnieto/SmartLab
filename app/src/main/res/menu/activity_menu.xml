@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/stallion_on"
+        android:title="@string/turn_on_stallion">
+    </item>
+    <item
+        android:id="@+id/stallion_off"
+        android:title="@string/turn_off_stallion">
+    </item>
+    <item
+        android:id="@+id/start_dc"
+        android:title="@string/start_display_cluster">
+    </item>
+    <item
+        android:id="@+id/start_vnc"
+        android:title="@string/start_vnc_server">
+    </item>
+</menu>
