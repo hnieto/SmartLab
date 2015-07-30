@@ -11,12 +11,12 @@ a more natural way of communicating with our systems.
 Check out the TACC Vislab website to get an idea of the environment and advanced resources I hope to automate:
 https://www.tacc.utexas.edu/vislab/
 
-### Dependencies
+## Dependencies
 
 - [Jsch library](http://www.jcraft.com/jsch/)
 
 
-## Running the sample on Glass
+## Running on Glass
 
 You can use your IDE to compile and install the application (highly recommended) or use
 [`adb`](https://developer.android.com/tools/help/adb.html)
