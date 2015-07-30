@@ -8,8 +8,7 @@ a more natural way of communicating with our systems.
 
 ## Getting started
 
-Check out the TACC Vislab website to get an idea of the environment and advanced resources I hope to automate:     
-https://www.tacc.utexas.edu/vislab/
+Check out the TACC Vislab website to get an idea of the environment and advanced resources I hope to automate: https://www.tacc.utexas.edu/vislab/
 
 ## Dependencies
 
